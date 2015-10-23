@@ -24,6 +24,7 @@ import android.os.Bundle;
  */
 public class CameraActivity extends Activity {
 //add
+//    aaa
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
